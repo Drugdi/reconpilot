@@ -1,3 +1,4 @@
 streamlit>=1.40
 pandas>=2.2
 openpyxl>=3.1
+stripe>=11.0
